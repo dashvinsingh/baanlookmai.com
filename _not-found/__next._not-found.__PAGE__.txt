@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"static/chunks/4e82b715-d8fd03ea30f6f700.js"
+3:"static/chunks/825-44c40be672af699f.js"
+4:"static/chunks/app/_not-found/page-5684c49e342554d5.js"
+5:I[311,["151","$2","825","$3","492","$4"],"Analytics"]
+6:I[8886,["151","$2","825","$3","492","$4"],"ThemeProvider"]
+7:I[5923,["151","$2","825","$3","492","$4"],"PostHogProvider"]
+b:I[7940,[],""]
+c:I[2962,[],""]
+15:"ViewportBoundary"
+16:I[2337,[],"$15"]
+17:"MetadataBoundary"
+18:I[2337,[],"$17"]
+19:"$Sreact.suspense"
+:HL["/_next/static/css/77da67c1b66911be.css","style"]
+:HL["/_next/static/css/b33a527fa85b34fd.css","style"]
+9:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","html",null,{"lang":"en","className":"__variable_d8ebd1 __variable_91b9f0 __variable_0e7a04","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L5",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const path = location.pathname;\n                const links = path.indexOf('/links') === 0 || path.indexOf('/th/links') === 0;\n                const theme = links\n                  ? (localStorage.getItem('theme') ||\n                    (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'))\n                  : (localStorage.getItem('theme-user') || 'light');\n                document.documentElement.classList.toggle('dark', theme === 'dark');\n              } catch (e) {\n                document.documentElement.classList.add('dark');\n              }\n            "}}]]}],["$","body",null,{"className":"flex flex-col min-h-[100dvh] bg-zinc-50 dark:bg-zinc-950 transition-colors duration-300 overflow-x-hidden undefined","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","main",null,{"className":"flex flex-1 flex-col items-center justify-center gap-3 px-6 py-24 text-center","children":[["$","h1",null,{"className":"font-display text-3xl text-zinc-900 dark:text-zinc-100","children":"Page not found"}],"$L10","$L11"]}],"$L12"]}]}]}]]}],null,"$L13"]}],"p":"$@14","v":null,"s":"$9"}}]]
+a:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"p":"$@d","v":"$e","s":"$9"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/77da67c1b66911be.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b33a527fa85b34fd.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"__variable_d8ebd1 __variable_91b9f0 __variable_0e7a04","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L5",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const path = location.pathname;\n                const links = path.indexOf('/links') === 0 || path.indexOf('/th/links') === 0;\n                const theme = links\n                  ? (localStorage.getItem('theme') ||\n                    (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'))\n                  : (localStorage.getItem('theme-user') || 'light');\n                document.documentElement.classList.toggle('dark', theme === 'dark');\n              } catch (e) {\n                document.documentElement.classList.add('dark');\n              }\n            "}}]]}],["$","body",null,{"className":"flex flex-col min-h-[100dvh] bg-zinc-50 dark:bg-zinc-950 transition-colors duration-300 overflow-x-hidden undefined","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","main",null,{"className":"flex flex-1 flex-col items-center justify-center gap-3 px-6 py-24 text-center","children":[["$","h1",null,{"className":"font-display text-3xl text-zinc-900 dark:text-zinc-100","children":"Page not found"}],["$","p",null,{"className":"t-body text-zinc-600 dark:text-zinc-400","children":"ไม่พบหน้าที่คุณต้องการ"}],["$","a",null,{"href":"/","className":"t-body underline underline-offset-4 text-zinc-700 dark:text-zinc-300","children":"Baan Lookmai · บ้านลูกไม้"}]]}],["$","footer",null,{"className":"w-full shrink-0 border-t border-zinc-200 dark:border-zinc-800 py-4 px-4 mt-auto","children":["$","div",null,{"className":"max-w-5xl mx-auto flex items-center justify-center gap-4 text-xs text-zinc-400 dark:text-zinc-600","children":["$","div",null,{"className":"flex items-center gap-3","children":[["$","span",null,{"className":"font-display italic text-zinc-500 dark:text-zinc-500","children":"Baan Lookmai"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"·"}],["$","span",null,{"children":["© ",2026]}]]}]}]}]]}]}]}]]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found | Baan Lookmai"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"dE_F2tHnjkSfSBd5LUesH"}
+1d:I[2337,[],"OutletBoundary"]
+10:["$","p",null,{"className":"t-body text-zinc-600 dark:text-zinc-400","children":"ไม่พบหน้าที่คุณต้องการ"}]
+11:["$","a",null,{"href":"/","className":"t-body underline underline-offset-4 text-zinc-700 dark:text-zinc-300","children":"Baan Lookmai · บ้านลูกไม้"}]
+12:["$","footer",null,{"className":"w-full shrink-0 border-t border-zinc-200 dark:border-zinc-800 py-4 px-4 mt-auto","children":["$","div",null,{"className":"max-w-5xl mx-auto flex items-center justify-center gap-4 text-xs text-zinc-400 dark:text-zinc-600","children":["$","div",null,{"className":"flex items-center gap-3","children":[["$","span",null,{"className":"font-display italic text-zinc-500 dark:text-zinc-500","children":"Baan Lookmai"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"·"}],["$","span",null,{"children":["© ",2026]}]]}]}]}]
+13:["$","$L1d",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+9:300
+1e:null
+1c:true
+9:C
+1b:0
+d:"$undefined"
+8:"$undefined"
+1a:"$undefined"
+14:"$undefined"

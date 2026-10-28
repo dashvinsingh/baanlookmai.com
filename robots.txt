@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://baanlookmai.com
+Sitemap: https://baanlookmai.com/sitemap.xml
