@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[96],{3952:a=>{a.exports={style:{fontFamily:"'Noto Sans Thai', 'Noto Sans Thai Fallback'",fontStyle:"normal"},className:"__className_1518e3"}},7669:(a,e,s)=>{Promise.resolve().then(s.t.bind(s,3952,23))}},a=>{a.O(0,[688,321,862,358],()=>a(a.s=7669)),_N_E=a.O()}]);
